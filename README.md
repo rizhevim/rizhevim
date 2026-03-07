@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm nico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Rize <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://www.instagram.com/src.nico/">
-  <img align="left" alt="Nico's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+  <img align="left" alt="Rize's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 
 
